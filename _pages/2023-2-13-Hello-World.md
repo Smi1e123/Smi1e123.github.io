@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hello World
-permalink: Welcome
-categories: Welcome
+permalink: /Welcome/
 ---
 
 # Hello
