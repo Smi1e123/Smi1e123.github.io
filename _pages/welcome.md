@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Hello World
-permalink: /Welcome/
+layout: page
+title: About
+permalink: /welcome/
 ---
 
 # Hello
