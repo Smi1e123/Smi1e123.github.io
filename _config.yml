@@ -22,7 +22,7 @@ avatar: /images/download.png
 footer-links:
   dribbble:
   email: yongshengsk@gmail.com
-  facebook: https://www.facebook.com/YongshengSheng
+  facebook: YongshengSheng
   flickr:
   github: 
   instagram:
@@ -31,7 +31,7 @@ footer-links:
   rss: rss
   twitter: 
   stackoverflow: 
-  youtube: user/<yongshengsk5948> # channel/<your_long_string> or user/<user-name>
+  youtube: user/yongshengsk5948 # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
